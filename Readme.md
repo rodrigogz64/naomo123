@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naomo123&theme=radical&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=naomo123&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomo123&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naomo123&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomo123&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 #
